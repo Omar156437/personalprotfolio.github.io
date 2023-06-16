@@ -1,0 +1,331 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	height: auto;
+	
+}
+.wrapper{
+	width: 100%;
+	height:auto;
+	background:white;
+
+}
+.header{
+	width: 100%;
+	height: 185px;
+	margin:0 auto;
+	padding: 0;
+
+}
+.top_header{
+	height: 50px;
+	width: 100%;
+	background-color: #E64231;
+	border-bottom: 1px solid black;
+	margin:0;
+	padding: 0;
+
+}
+.log_in ul{
+	margin: 0;
+	padding-top:15px;
+	padding-left: 15px;	
+}
+.log_in ul li{
+	float: left;
+	list-style: none;
+	border-right: 1px solid white;
+	color: white;
+	font-family: calbari;
+	padding-right: 8px;
+	padding-left: 2px;
+}
+.main_search{
+	padding-right: 20px;
+}
+.search_box{
+	float: right;
+	margin: 0;
+	padding: 0;
+	border-radius: 30px;
+}
+.sub_btn{
+	border-radius:10px;
+}
+.marquee{
+	width:1000px;
+	height: 50px;
+	border: 2px solid gray;
+	color: blue;
+	margin: 0 auto;
+	
+
+}
+.middle_header{
+	
+	height: 135px;
+	width:100%;
+	margin: 0 auto;
+	padding:0;
+	width: 98%;
+
+}
+.Company_Name{
+	margin: 0;
+	padding-top:0px;
+	float:left;
+}
+.Company_Name h1{
+	margin:0;
+	padding:0;
+	font-family: Eras Bold ITC;
+	font-size: 35px;
+	color:green;
+}
+.Company_Name h3{
+	font-family:Bell MT;
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+}
+.Social_Icon{
+	margin: 0;
+	padding-top:20px;
+	float:right;
+
+}
+.Social_Icon ul{
+	margin: 0;
+	padding: 0;
+}
+.Social_Icon ul a{
+	list-style: none;
+	float:left;
+}
+.Social_Icon ul li{
+	padding-left: 15px;
+}
+.Menu{
+	background-color:white;
+	width: 98%;
+	margin: 0 auto;
+	height:550px;
+	padding: 0PX;
+}
+.Top_menu{
+	width:100%;
+	height:40px;
+	background:gray;
+	margin: 0;
+	padding: 0;
+}
+.Top_menu ul{
+	margin: 0;
+
+}
+.Top_menu ul li{
+	list-style: none;
+	float: left;
+	margin: 0;
+	padding-right: 35px;
+	color: white;
+	padding-top: 10px;
+}
+.Banner{
+	margin: 0;
+	padding: 0;
+	
+}
+.Banner img{
+	height:510px;
+	float:left;
+	margin:0;
+	width: 40%;	
+}
+.title{
+	margin: 0;
+	padding: 0;
+	
+}
+.title h1{
+	color:cornflowerblue;
+	margin:0;
+	float:left;
+	padding-top: 100px;
+	padding-left: 155px;
+	font-size: 50px;
+
+}
+.details{
+	color: #6A6A6A;
+}
+.details p{
+	padding-top:280px;
+	padding-left:650px;
+	text-align:justify;
+}
+.read_more{
+	float: right;
+}
+.content{
+	width: 100%;
+	height:600px;
+	background-color: #F2F2F2;
+}
+.about_us{
+	width: 30%;
+	height:100%;
+	float:left;
+	padding-left: 25px;
+}
+.about_us h1{
+	color:#333333;
+	padding-top: 20px;
+	padding-bottom:20px;
+}
+.about_us img{
+	width:400px;
+	height:200px;
+}
+.about_us p{
+	text-align:justify;
+	color: #848484;
+}
+.read_more_about img{
+	float: right;
+	width: 120px;
+	height: 20px;
+
+}
+.our_services{
+	width: 30%;
+	height:100%;
+	float:left;
+	padding-left: 25px;
+}
+.our_services h1{
+	color:#333333;
+	padding-top: 20px;
+	padding-bottom:20px;
+}
+.our_services img{
+	float: left;
+	padding-right: 15px;
+}
+.our_services h3{
+	margin: 0;
+	padding-bottom: 5px;
+	font-family: Calisto MT;
+
+}
+.our_services p{
+	margin: 0;
+	padding-bottom:30px;
+	text-align:justify;
+}
+.view_all_of_our_source{
+	float: right;
+	width: 120px;
+	height: 20px;
+}
+.clicent_say{
+	width: 31%;
+	height:100%; 
+	float:left;
+	padding-left: 25px;
+}
+.clicent_say img{
+	float: left;
+	padding-right: 15px;
+}
+.clicent_say h1{
+	color:#333333;
+	padding-top: 20px;
+	padding-bottom:20px;
+}
+.clicent_say h3{
+	margin: 0;
+	padding-top:10px;
+	font-family: Calisto MT;
+}
+.clicent_say p{
+	margin: 0;
+	text-align:justify;
+	padding-bottom: 20px;
+}
+.view_this_project{
+	float: right;
+	width: 100px;
+	height: 20px;
+}
+.hire_me{
+	height: 300px;
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-left: 110px;
+}
+.hire_me .button_hire{
+	padding:130px;
+	float: left;
+	font-size: 50px;
+	background-color: darkcyan;
+}
+.hire_me img{
+	float: left;
+	align-self: center;
+	width:530px;
+}
+.fotter{
+	height:500px;
+	width: 100%;
+		
+}
+.moivataion{
+	width: 100%;
+	height: 300px;
+	background-color: darksalmon;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 20pt;
+	padding-top: 30px;
+}
+.latest_tweets{
+	width:23%;
+	background-color:;
+	height: 250px;
+	float: left;
+	border: 5px solid black;
+	padding-left: 15px;
+}
+.quick_link{
+	width:23%;
+	background-color:;
+	height: 250px;
+	float: left;
+	border: 5px solid black;
+	padding-left: 15px;
+}
+.latest_blog_post{
+	width:23%;
+	background-color:;
+	height: 250px;
+	float: left;
+	border: 5px solid black;
+	padding-left: 15px;
+}
+.contact_us{
+	width:23%;
+	height: 250px;
+	float: left;
+	border: 5px solid black;
+	padding-left: 15px;
+}
+
+
+
+
+
+
+
